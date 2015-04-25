@@ -14,7 +14,7 @@
     <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
     <title>Completely Digital Clips - Post Video</title>
-
+    <!-- I edited this code -->
     <!-- Bootstrap core CSS -->
     <link href="/static/css/bootstrap.css" rel="stylesheet">
 
